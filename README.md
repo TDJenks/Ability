@@ -1,2 +1,2 @@
-# WeatherMan
-A weather app created by me
+# Ability
+A skill progress tracker created by TDJenks
